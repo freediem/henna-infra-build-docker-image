@@ -1,4 +1,4 @@
-# ssgd-infra-build-docker-image
+# henna-infra-build-docker-image
 
 
 
